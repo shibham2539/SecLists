@@ -3,3 +3,7 @@
 /swagger-ui.html
 /swagger-resources
 /swagger/static/index.html
+/swagger-ui.html
+/api/swagger-ui.html 
+/swagger-resources/restservices/v2/api-docs
+/api/v2/swagger.json
